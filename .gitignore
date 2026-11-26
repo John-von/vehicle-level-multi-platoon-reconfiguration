@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Generated experiment data and manuscript assets
+/results/
+/manuscript/
+
+# Local environments and logs
+/.venv/
+/venv/
+.env
+.env.*
+*.log
